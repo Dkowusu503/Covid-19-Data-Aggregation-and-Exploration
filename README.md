@@ -1,5 +1,5 @@
 # Covid-19-Data-Aggregation-and-Exploration
-This project entails data collection from MySQL database using pymysql connection in jupyter notebook, data aggregation with SQL and pandas,  and data exploration.
+The goal of this project was to use various data science techniques to visually explore the covid-19 data set, look for similarities, patterns and outliers and to identify the relationships between different variables.
 
 The project was carried out as follows:
 * Data collection from MySQL database using pymysql connection.
